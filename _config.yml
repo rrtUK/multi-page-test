@@ -1,0 +1,11 @@
+# basic options
+title: jekyll multi-page test
+author: r3d bullion
+email: r3d@redbullion[dot]com
+description: test of procedurally-generated pages in jekyll template
+twitter_username: tbd
+github_username:  rrtUK
+
+# Build settings
+markdown: kramdown
+theme: minima
